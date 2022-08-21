@@ -1,0 +1,26 @@
+{
+  "title": "Servicios",
+  "text": "Tenemos una amplia oferta de servicios relacionados con la administración de la propiedad accionaria. ",
+  "section": [
+    {
+      "title": "Manejo de la propiedad accionaria",
+      "content": "Se proporcionará un tablero con el porcentaje de participación que tiene cada contraparte (fundadores, inversionistas y empleados) .",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Administración del plan de acciones otorgado a los empleados",
+      "content": "Conocimiento en tiempo real de las acciones u opciones que tiene cada empleado , la periodicidad de redención y la creación y disponibilidad de acciones para distribuir a los empleados.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Asesoría legal",
+      "content": "Asesoria legal en línea para entender y cumplir con los requerimientos legales relacionados a la composición accionaria y manejo del plan de acciones de los empleados y fundadores.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Valoración",
+      "content": "Bajo un marco estructurado se realiza la valoración de la compañia para determinar cual es el precio razonable/junto en un determinado momento, ya sea para una nueva ronda de inversión o para otorgar liquidez a las contrapartes.",
+      "icon": "notes.svg"
+    }
+  ]
+}
