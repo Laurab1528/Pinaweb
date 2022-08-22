@@ -38,9 +38,10 @@ const Home = () => {
         id="about"
       />
       <ContentBlock
-        type="right"
-        title={MissionContent.title}
-        content={MissionContent.text}
+        type="left"
+        title={MissionContent.title}       
+        content={MissionContent.text}       
+        section={MissionContent.section}
         icon="product-launch.svg"
         id="mission"
       />

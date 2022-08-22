@@ -1,4 +1,24 @@
+
+
 {
-  "title": "Impulsa tu compañia",
-  "text": " Ten el control a un solo click de la composición accionaria de la compañia y la otorgación de acciones a los empleados . Podras realizar modelaciones financieras y crear diferentes escenario que le permitan tomar decisiones acertadas con la ayuda de los datos."
+  "title": "Planes",
+  "text": "Tenemos diferentes planes que se ajustan a la etapa y el número de empleados con el que cuente la compañia.",
+  "section": [
+    {
+      "title": "Plan Startup",
+      "content": "Menos de 10 empleados se cobrará 20 usd por cada empleado una única vez. Este plan incluye manejo de la composición accionaria, plan de beneficios accionarios para los empleados , asesoria gratis  con un experto  para iniciar el proceso",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Plan Premiun",
+      "content": "Entre 10 y 80 empleados se cobrará 50 usd por cada empleado una única vez. Este plan incluye manejo de la composición accionaria, plan de beneficios accionarios para los empleados , asesoria gratis  con un experto en cualquier momento y tablero para realizar modelaciones financiera ",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Plan Corporativo",
+      "content": "Más de 80 empleados se cobrará 50 usd por cada empleado una única vez. Este plan incluye manejo de la composición accionaria, plan de beneficios accionarios para los empleados , asesoria gratis  con un experto en cualquier momento, valoración de la empresa para determinar un precio justo cumpliendo con los esquemas legales requeridos y tablero para realizar modelaciones financiera ",
+      "icon": "notes.svg"
+    }
+
+  ]
 }

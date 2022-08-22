@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { notification } from "antd";
-import firebase from 'firebase/app';
 import { addDoc, collection } from 'firebase/firestore';
 import { db } from './database/Firebase';
 
